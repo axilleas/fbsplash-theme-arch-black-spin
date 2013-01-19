@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<thememeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fbsplash.berlios.de/schemas/1.0/thememeta.xsd">
+	<name>arch-black-spin</name>
+	<version>1.0</version>
+	<author>
+		<name>Fabrix.Xm</name>
+		<email>fabrix.xm@gmail.com</email>
+	</author>
+	<description>An Arch Linux fbsplash theme with spinning 3d logo. Based on arch-black 1.2 theme by PirateJonno</description>
+	<license>CC-BY-NC-SA</license>
+	<url>http://arch-stuff.org/content/show.php?content=118243</url>
+</thememeta>
